@@ -6,3 +6,4 @@ It's cloudy outside today.
 =======
 It's cloudy outside today.
 >>>>>>> update-readme
+Added File3.txt in exer branch
