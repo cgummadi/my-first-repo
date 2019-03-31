@@ -5,8 +5,8 @@ USA
 
 ### Sports
 favorite sports
-a) Cricket
-b) Foot ball NFL
+a. Cricket
+b. Foot ball NFL
 
 ### Favorite NFL Team
 **Pittsburgh Steelers**
