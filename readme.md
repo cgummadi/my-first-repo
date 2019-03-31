@@ -15,3 +15,13 @@ A local *habitation* and a **name**
 2. an ordered 
 3. list
 
+`git status` give status of repository
+
+###code block
+```
+for i in {A..B}
+do
+	echo $i
+done
+
+```
