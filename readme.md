@@ -17,7 +17,7 @@ A local *habitation* and a **name**
 
 `git status` give status of repository
 
-###code block
+##code block
 ```
 for i in {A..B}
 do
