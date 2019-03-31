@@ -1,27 +1,16 @@
-# This is about My First git/github repository
+# Chitti Babu
 
-## Readme file in heading 2 format
+### Location
+USA
 
-As as **imagination** bodies forth,
-The firms of things *unknown*, the poet's prn,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
+### Sports
+favorite sports
+a) Cricket
+b) Foot ball NFL
 
-- This is
-- an unordered
-- list
+### Favorite NFL Team
+**Pittsburgh Steelers**
+*Teams follow* **Packers** **Bears**
 
-1. This is
-2. an ordered 
-3. list
 
-`git status` give status of repository
 
-## code block
-```
-for i in {A..B}
-do
-	echo $i
-done
-
-```
